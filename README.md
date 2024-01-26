@@ -10,3 +10,5 @@ need to have installed Jupyter Lab, Python 3 and the following python modules:
 * Plotly
 * NetworkX
 * Matplotlib
+
+This was done as a final project for ENGL 2148 - Shakespeare at LSU.
